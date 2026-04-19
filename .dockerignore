@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+*.whl
+alembic/versions/__pycache__
