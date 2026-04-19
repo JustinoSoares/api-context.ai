@@ -1,1 +1,16 @@
+# Torch wheels (grandes demais para o GitHub)
+*.whl
+
+# Ambiente Python
+__pycache__/
+*.pyc
+*.pyo
 .env
+*.egg-info/
+
+# Alembic cache
+alembic/versions/__pycache__/
+
+# Ficheiros temporários
+/tmp/
+*.log
